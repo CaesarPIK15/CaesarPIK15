@@ -76,8 +76,6 @@
   <img src="https://raw.githubusercontent.com/CaesarPIK15/CaesarPIK15/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-> 💡 Catatan: Animasi ular ini butuh setup GitHub Action tambahan di repo `CaesarPIK15/CaesarPIK15` (lihat bagian instruksi setup di bawah) agar bisa muncul otomatis.
-
 ---
 
 ### 🌐 Connect With Me
