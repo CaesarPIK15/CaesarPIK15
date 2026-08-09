@@ -1,68 +1,44 @@
 <div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:00FFFF&height=120&section=header&reversal=false" width="100%"/>
 
-<!-- ===================== ANIMATED HEADER ===================== -->
+  <a href="https://github.com/CaesarPIK15">
+    <img src="download.jpg" alt="Caesar Arkan Athariz" width="220" style="border-radius: 50%; border: 4px solid #00FFFF;" />
+  </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0ea5e9,100:22d3ee&height=220&section=header&text=CAESARPIK15&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20WEB%20ENGINEER%20%7C%20WEB%20DEVELOPER%20%7C%20CYBER%20SECURITY&descAlignY=60&descSize=17" width="100%"/>
+  <br>
 
-<br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Initializing+CaesarPIK15...;AI+Web+Engineer;Web+Developer;Cyber+Security+Enthusiast;Creative+Developer;Building+The+Future..." alt="Typing Animation" />
 
-<!-- ===================== PROFILE IMAGE ===================== -->
+  <br>
+  
+  <a href="https://github.com/CaesarPIK15"><img src="https://img.shields.io/badge/STATUS-ONLINE-00FF88?style=for-the-badge&logoColor=white&color=00FF88&labelColor=020617" alt="Status"/></a>
+  <a href="https://github.com/CaesarPIK15"><img src="https://img.shields.io/badge/MODE-BUILDING-00BFFF?style=for-the-badge&logoColor=white&color=00BFFF&labelColor=020617" alt="Mode"/></a>
+  <a href="https://github.com/CaesarPIK15"><img src="https://img.shields.io/badge/FOCUS-AI_%2B_WEB-8B5CF6?style=for-the-badge&logoColor=white&color=8B5CF6&labelColor=020617" alt="Focus"/></a>
 
-<img src="./profile.jpg"
-     width="180"
-     height="180"
-     style="border-radius:50%;"
-     alt="Caesar Profile">
-
-<br><br>
-
-# ⚡ Caesar Arkan Athariz
-
-### `AI Web Engineer` • `Web Developer` • `Cyber Security Enthusiast`
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=caesarpik15&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge">
-
-<img src="https://img.shields.io/github/followers/caesarpik15?label=FOLLOWERS&style=for-the-badge&logo=github">
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=700&lines=Welcome+to+Caesar's+GitHub+%F0%9F%91%8B;AI+Web+Engineer+%F0%9F%A4%96;Creative+Web+Developer+%F0%9F%92%BB;Cyber+Security+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing Animation">
-
+  <br><br>
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320">
+Selamat datang di terminal digital saya. Saya adalah seorang **AI Web Engineer** dan **Creative Developer** yang berfokus pada integrasi Artificial Intelligence dalam ekosistem web modern. Saya memiliki hasrat yang kuat dalam menciptakan antarmuka pengguna yang imersif dan mendalami dunia *Cyber Security* untuk memastikan aplikasi yang dibangun aman dari ancaman digital.
+
+### 🧬 Developer Profile
 
 ```javascript
 const caesar = {
-    username: "caesarpik15",
-
+    username: "CaesarPIK15",
     name: "Caesar Arkan Athariz",
-
     role: "AI Web Engineer",
-
-    location: "Indonesia",
-
-    interests: [
+    focus: [
         "Web Development",
         "Artificial Intelligence",
         "Cyber Security",
         "UI/UX Design",
-        "3D Web Experience"
+        "3D Web / Creative Coding"
     ],
-
-    hobbies: [
-        "Coding",
-        "Gaming",
-        "Building Websites",
-        "Exploring Technology"
-    ],
-
-    mindset:
-        "Build. Learn. Secure. Repeat."
+    hobbies: ["Coding", "Gaming", "Exploring Technology", "Building Websites"],
+    mindset: "Build. Learn. Secure. Repeat."
 };
