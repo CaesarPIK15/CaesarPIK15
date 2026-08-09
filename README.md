@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
+  <h1 align="center">Halo, Saya Pemula 👋</h1>
+  <h3>💻 Belajar Menjadi Developer</h3>
+</div>
 
-<!--
-**CaesarPIK15/CaesarPIK15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cAESARoik15&style=flat-square&color=007ec6" alt="Profile Views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Tentang Saya
+* 🔭 Sedang belajar dasar-dasar pemrograman dan GitHub.
+* 🌱 Saat ini fokus memahami cara kerja web development.
+
+---
+
+### 🛠️ Alat yang Dipelajari
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="Tech Stack" />
+</p>
+
+---
+
+### 📊 Statistik GitHub
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=GANTI_DENGAN_USERNAME_ANDA&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</div>
