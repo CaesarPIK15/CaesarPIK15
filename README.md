@@ -32,15 +32,19 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,nodejs,express,php,laravel,python,django,flask,java,spring,kotlin,swift,cpp,c,csharp,dotnet,go,rust,ruby,rails,dart,flutter,tailwind,bootstrap,sass" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,tailwind,bootstrap,sass&perline=12" alt="Frontend" />
 </p>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase,supabase,graphql,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,flask,java,spring,go,rust,ruby,rails&perline=12" alt="Backend" />
 </p>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,aws,gcp,azure,vercel,netlify,linux,bash,vscode,figma,postman,vim,nginx" />
+  <img src="https://skillicons.dev/icons?i=kotlin,swift,dart,flutter,c,cpp,csharp,dotnet&perline=12" alt="Mobile & Languages" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase,supabase,graphql,prisma&perline=12" alt="Database" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,aws,gcp,azure,vercel,netlify,linux,bash,nginx,vscode,figma,postman,vim&perline=12" alt="Tools & DevOps" />
 </p>
 
 ---
@@ -48,32 +52,8 @@
 ### 📊 GitHub Statistik
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaesarPIK15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaesarPIK15&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaesarPIK15&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaesarPIK15&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
-### 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CaesarPIK15&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-### 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CaesarPIK15/CaesarPIK15/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaesarPIK15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaesarPIK15&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
